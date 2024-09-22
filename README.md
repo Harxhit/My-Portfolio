@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# My 3D Portfolio
+# My 3D Portfolio 😎
 
 Welcome to my 3D portfolio! Step into an immersive experience showcasing my skills and creativity in web development and design. This portfolio is built using **Three.js**, enabling dynamic and interactive visual elements that highlight my work in a unique way.
 
@@ -23,6 +13,8 @@ Welcome to my 3D portfolio! Step into an immersive experience showcasing my skil
 - **Animations and Effects**: Smooth transitions and captivating animations bring the portfolio to life, making the exploration feel like a journey.
 
 - **Personal Branding**: The design reflects my personal style and brand, integrating colors, typography, and elements that resonate with my professional identity.
+- 
+- **Contact**: Interactive 3'D contact option . 
 
 ## Projects Highlighted
 
@@ -41,4 +33,6 @@ Welcome to my 3D portfolio! Step into an immersive experience showcasing my skil
 ## Conclusion
 
 Thank you for visiting my 3D portfolio! I hope you enjoy exploring my work as much as I enjoyed creating it. Your feedback and thoughts are always welcome!
->>>>>>> origin/main
+
+## Links
+https://harshitportfolios.netlify.app/
